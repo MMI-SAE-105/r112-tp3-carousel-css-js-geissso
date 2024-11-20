@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom :GEISS
+- prénom :Solène
+- URL Netlify :https://vocal-dodol-13cb52.netlify.app/
 
 # Travail
 
@@ -166,3 +166,4 @@ Changer les CSS pour que les tailles d'items (images) soit proportionelle à la 
 Tester que le scroll et les boutons fonctionne toujours de façon satisfaisante.
 
 **Faire commit** : Carrousel avec taille d'image responsive
+
